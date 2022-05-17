@@ -1,0 +1,17 @@
+C:\Users\erlin\source\repos\StudentsTest\StudentsTest.Core\bin\Debug\net6.0\StudentsTest.Core.deps.json
+C:\Users\erlin\source\repos\StudentsTest\StudentsTest.Core\bin\Debug\net6.0\StudentsTest.Core.runtimeconfig.json
+C:\Users\erlin\source\repos\StudentsTest\StudentsTest.Core\bin\Debug\net6.0\StudentsTest.Core.dll
+C:\Users\erlin\source\repos\StudentsTest\StudentsTest.Core\bin\Debug\net6.0\StudentsTest.Core.pdb
+C:\Users\erlin\source\repos\StudentsTest\StudentsTest.Core\bin\Debug\net6.0\StudentsTest.DataAccess.dll
+C:\Users\erlin\source\repos\StudentsTest\StudentsTest.Core\bin\Debug\net6.0\StudentsTest.DataAccess.pdb
+C:\Users\erlin\source\repos\StudentsTest\StudentsTest.Core\obj\Debug\net6.0\StudentsTest.Core.csproj.AssemblyReference.cache
+C:\Users\erlin\source\repos\StudentsTest\StudentsTest.Core\obj\Debug\net6.0\StudentsTest.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erlin\source\repos\StudentsTest\StudentsTest.Core\obj\Debug\net6.0\StudentsTest.Core.AssemblyInfoInputs.cache
+C:\Users\erlin\source\repos\StudentsTest\StudentsTest.Core\obj\Debug\net6.0\StudentsTest.Core.AssemblyInfo.cs
+C:\Users\erlin\source\repos\StudentsTest\StudentsTest.Core\obj\Debug\net6.0\StudentsTest.Core.csproj.CoreCompileInputs.cache
+C:\Users\erlin\source\repos\StudentsTest\StudentsTest.Core\obj\Debug\net6.0\StudentsTest.Core.csproj.CopyComplete
+C:\Users\erlin\source\repos\StudentsTest\StudentsTest.Core\obj\Debug\net6.0\StudentsTest.Core.dll
+C:\Users\erlin\source\repos\StudentsTest\StudentsTest.Core\obj\Debug\net6.0\refint\StudentsTest.Core.dll
+C:\Users\erlin\source\repos\StudentsTest\StudentsTest.Core\obj\Debug\net6.0\StudentsTest.Core.pdb
+C:\Users\erlin\source\repos\StudentsTest\StudentsTest.Core\obj\Debug\net6.0\StudentsTest.Core.genruntimeconfig.cache
+C:\Users\erlin\source\repos\StudentsTest\StudentsTest.Core\obj\Debug\net6.0\ref\StudentsTest.Core.dll

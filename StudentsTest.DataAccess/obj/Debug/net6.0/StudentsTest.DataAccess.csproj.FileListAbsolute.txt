@@ -1,0 +1,14 @@
+C:\Users\erlin\source\repos\StudentsTest\StudentsTest.DataAccess\bin\Debug\net6.0\StudentsTest.DataAccess.deps.json
+C:\Users\erlin\source\repos\StudentsTest\StudentsTest.DataAccess\bin\Debug\net6.0\StudentsTest.DataAccess.runtimeconfig.json
+C:\Users\erlin\source\repos\StudentsTest\StudentsTest.DataAccess\bin\Debug\net6.0\StudentsTest.DataAccess.dll
+C:\Users\erlin\source\repos\StudentsTest\StudentsTest.DataAccess\bin\Debug\net6.0\StudentsTest.DataAccess.pdb
+C:\Users\erlin\source\repos\StudentsTest\StudentsTest.DataAccess\obj\Debug\net6.0\StudentsTest.DataAccess.csproj.AssemblyReference.cache
+C:\Users\erlin\source\repos\StudentsTest\StudentsTest.DataAccess\obj\Debug\net6.0\StudentsTest.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erlin\source\repos\StudentsTest\StudentsTest.DataAccess\obj\Debug\net6.0\StudentsTest.DataAccess.AssemblyInfoInputs.cache
+C:\Users\erlin\source\repos\StudentsTest\StudentsTest.DataAccess\obj\Debug\net6.0\StudentsTest.DataAccess.AssemblyInfo.cs
+C:\Users\erlin\source\repos\StudentsTest\StudentsTest.DataAccess\obj\Debug\net6.0\StudentsTest.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\erlin\source\repos\StudentsTest\StudentsTest.DataAccess\obj\Debug\net6.0\StudentsTest.DataAccess.dll
+C:\Users\erlin\source\repos\StudentsTest\StudentsTest.DataAccess\obj\Debug\net6.0\refint\StudentsTest.DataAccess.dll
+C:\Users\erlin\source\repos\StudentsTest\StudentsTest.DataAccess\obj\Debug\net6.0\StudentsTest.DataAccess.pdb
+C:\Users\erlin\source\repos\StudentsTest\StudentsTest.DataAccess\obj\Debug\net6.0\StudentsTest.DataAccess.genruntimeconfig.cache
+C:\Users\erlin\source\repos\StudentsTest\StudentsTest.DataAccess\obj\Debug\net6.0\ref\StudentsTest.DataAccess.dll
